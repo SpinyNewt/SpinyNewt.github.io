@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:"SpinyNewt's page"
+title: "SpinyNewt's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
