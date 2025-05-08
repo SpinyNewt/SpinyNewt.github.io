@@ -19,7 +19,7 @@ repository               : "SpinyNewt/SpinyNewt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Jingyuan Shi(石景元)"
   pronouns         : # example: "he"  
   bio              : "Junior Student"
