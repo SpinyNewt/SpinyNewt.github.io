@@ -5,14 +5,14 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-SG"
-title                    : "Junyi's Homepage"
+locale                   : "Hangzhou, China"
+title                    : "SpinyNewt's Homepage"
 title_separator          : "-"
-name                     : &name "Junyi Shen"
-description              : &description "PhD Student"
-url                      : https://j1shen.github.io
+name                     : &name "Jingyuan Shi(石景元)"
+description              : &description "Junior Student"
+url                      : https://SpinyNewt.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "j1shen/j1shen.github.io"
+repository               : "SpinyNewt/SpinyNewt.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -20,17 +20,17 @@ repository               : "j1shen/j1shen.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Junyi Shen(沈骏一)"
+  name             : "Jingyuan Shi(石景元)"
   pronouns         : # example: "he"  
-  bio              : "PhD Student in Computer Science"
-  location         : "Singapore"
-  employer         : "National University of Singapore"
+  bio              : "Junior Student"
+  location         : "SHangzhou, China"
+  employer         : "Zhejiang University"
   uri              : # URL
-  email            : "junyis@u.nus.edu" 
+  email            : "jingyuanshi58@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=YgWz1yMAAAAJ&hl=zh-CN"
+  # googlescholar    : "https://scholar.google.com/citations?user=YgWz1yMAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -41,16 +41,16 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "j1shen"
+  github           : "SpinyNewt"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  linkedin         : junyi-shen
-  instagram        : j1shen
+  linkedin         : # Username
+  instagram        : # Username
   telegram         : # URL
   bluesky          : # Username
-  facebook         : j1shen
+  facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username

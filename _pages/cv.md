@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="../files/Resume_Junyi.pdf" width="100%" height="900px"></iframe>
+<iframe src="../files/Resume_EN.pdf" width="100%" height="900px"></iframe>
