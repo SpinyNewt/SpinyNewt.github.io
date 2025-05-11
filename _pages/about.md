@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page~ I'm **Shi Jingyuan**, a junior student majoring in Automation(Control) in [College of Control Science and Engineering College](https://cse.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/). I minor in ACEE(Honor Class of Engineering Education, [Chu Kochen Honors College](https://ckc.zju.edu.cn/))
+Welcome to my page~ I'm **Shi Jingyuan**, a junior student majoring in Automation(Control) in [College of Control Science and Engineering](https://cse.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/). I minor in ACEE(Honor Class of Engineering Education, [Chu Kochen Honors College](https://ckc.zju.edu.cn/))
 
 Attached below is my CV: [Shi Jingyuan's CV EN](../files/Resume_EN.pdf).
 
