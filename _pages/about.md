@@ -7,4 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page~ I'm **Jingyuan Shi(石景元)**, a senior student at the College of Control Science and Engineering, Zhejiang University. I'm honored to be advised by Professor [Jun Xiao](https://person.zju.edu.cn/junx). Currently, I major in Automation(Control) and minor in ACEE (Honor Class of Engineering Education, [Chu Kochen Honors College](https://ckc.zju.edu.cn/)), and will start my Ph.D. this year.
+Welcome to my page~ I'm **Jingyuan Shi(石景元)**, a PhD student at the College of Artificial Intelligence, Zhejiang University. I'm honored to be advised by Professor [Jun Xiao](https://person.zju.edu.cn/junx). Previously, I major in Automation(Control) and minor in ACEE (Advanced Honor Class of Engineering Education, [Chu Kochen Honors College](https://ckc.zju.edu.cn/)).
+
+* 2026 - 2031(expected): PhD, Zhejiang University
+* 2022 - 2026: Undergraduate, Zhejiang University
+
+
+
